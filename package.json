@@ -1,0 +1,27 @@
+{
+  "name": "ciab-header",
+  "version": "0.0.0",
+  "description": "coopinabox page header",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coopinabox/header.git"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/coopinabox/header/issues"
+  },
+  "homepage": "https://github.com/coopinabox/header",
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
+  "peerDependencies": {
+    "react": "^0.9.0"
+  }
+}
