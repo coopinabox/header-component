@@ -1,6 +1,7 @@
 var expect = require('chai').expect;
 
 var React = require('react');
+require('node-jsx').install();
 var HeaderComponent = require('../HeaderComponent');
 
 describe("#HeaderComponent", function () {
@@ -13,7 +14,7 @@ describe("#HeaderComponent", function () {
   });
 
   it("should be mountable", function () {
-    React.renderComponent(headerComponent, document.body);
-    expect(headerComponent.isMounted()).to.be.true;
+    var html = React.renderComponentToString(headerComponent);
+    expect(html).to.exist;
   })
 });
