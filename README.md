@@ -1,7 +1,7 @@
-# ciab-header
+# header
 
 [![server tests](https://travis-ci.org/coopinabox/header.png)](https://travis-ci.org/coopinabox/header)
-[![npm version](https://badge.fury.io/js/coopinabox-header.png)](https://npmjs.org/package/coopinabox-header)
+[![npm version](https://badge.fury.io/js/ciab-header.png)](https://npmjs.org/package/ciab-header)
 [![dependency status](https://david-dm.org/coopinabox/header.png)](https://david-dm.org/coopinabox/header)
 [![devDependency status](https://david-dm.org/coopinabox/header/dev-status.png)](https://david-dm.org/coopinabox/header#info=devDependencies)
 
