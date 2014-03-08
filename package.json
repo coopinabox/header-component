@@ -41,6 +41,9 @@
       "android-browser/4.2"
     ]
   },
+  "dependencies": {
+    "semantic-ui": "git://github.com/Semantic-Org/Semantic-UI.git#0.14.0"
+  },
   "peerDependencies": {
     "react": "^0.9.0"
   },
