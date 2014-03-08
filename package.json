@@ -1,6 +1,6 @@
 {
   "name": "ciab-header-component",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Coop-in-a-Box header component",
   "main": "lib/index.js",
   "scripts": {
