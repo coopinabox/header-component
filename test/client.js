@@ -1,19 +1,19 @@
 var expect = require('chai').expect;
 
 var React = require('react');
-var HeaderComponent = require('../HeaderComponent');
+var Header = require('../');
 
-describe("#HeaderComponent", function () {
-  var headerComponent;
+describe("#Header", function () {
+  var header;
 
   it("should be createable", function () {
     var props = {};
-    headerComponent = new HeaderComponent(props);
-    expect(headerComponent).to.exist;
+    header = new Header(props);
+    expect(header).to.exist;
   });
 
   it("should be mountable", function () {
-    React.renderComponent(headerComponent, document.body);
-    expect(headerComponent.isMounted()).to.be.true;
+    React.renderComponent(header, document.body);
+    expect(header.isMounted()).to.be.true;
   })
 });

@@ -1,8 +1,8 @@
 {
-  "name": "ciab-header",
+  "name": "ciab-header-component",
   "version": "0.0.1",
-  "description": "Coop-in-a-Box page header",
-  "main": "index.js",
+  "description": "Coop-in-a-Box header component",
+  "main": "lib/index.js",
   "scripts": {
     "test-server": "(export NODE_ENV=test; npm run migrate && mocha -R spec test/server.js)",
     "test-client": "(export NODE_ENV=test; testling)",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/coopinabox/header.git"
+    "url": "git://github.com/coopinabox/header-component.git"
   },
   "author": "",
   "license": "AGPLv3",
   "bugs": {
-    "url": "https://github.com/coopinabox/header/issues"
+    "url": "https://github.com/coopinabox/header-component/issues"
   },
-  "homepage": "https://github.com/coopinabox/header",
+  "homepage": "https://github.com/coopinabox/header-component",
   "engines": {
     "node": ">=0.10.0"
   },

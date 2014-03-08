@@ -1,18 +1,18 @@
-# header
+# header component
 
-[![server tests](https://travis-ci.org/coopinabox/header.png)](https://travis-ci.org/coopinabox/header)
-[![npm version](https://badge.fury.io/js/ciab-header.png)](https://npmjs.org/package/ciab-header)
-[![dependency status](https://david-dm.org/coopinabox/header.png)](https://david-dm.org/coopinabox/header)
-[![devDependency status](https://david-dm.org/coopinabox/header/dev-status.png)](https://david-dm.org/coopinabox/header#info=devDependencies)
+[![server tests](https://travis-ci.org/coopinabox/header-component.png)](https://travis-ci.org/coopinabox/header-component)
+[![npm version](https://badge.fury.io/js/ciab-header-component.png)](https://npmjs.org/package/ciab-header-component)
+[![dependency status](https://david-dm.org/coopinabox/header-component.png)](https://david-dm.org/coopinabox/header-component)
+[![devDependency status](https://david-dm.org/coopinabox/header-component/dev-status.png)](https://david-dm.org/coopinabox/header-component#info=devDependencies)
 
-[![browser tests](https://ci.testling.com/coopinabox/header.png)](https://ci.testling.com/coopinabox/header)
+[![browser tests](https://ci.testling.com/coopinabox/header-component.png)](https://ci.testling.com/coopinabox/header-component)
 
 a header component with navigation
 
 ## how to install
 
 ```
-git clone https://github.com/coopinabox/header
+git clone https://github.com/coopinabox/header-component
 npm install
 ```
 
