@@ -56,5 +56,8 @@
     "node-jsx": "^0.9.0",
     "chai-jquery": "^1.2.1",
     "jquery": "^2.1.0"
+  },
+  "dependencies": {
+    "semantic": "git://github.com/Semantic-Org/Semantic-UI#0.14.0"
   }
 }
