@@ -16,6 +16,12 @@ git clone https://github.com/coopinabox/header-component
 npm install
 ```
 
+## how to develop
+
+```
+npm run develop
+```
+
 ## how to test
 
 ```
