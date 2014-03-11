@@ -1,2 +1,5 @@
 node_modules
 *.swp
+npm-debug.log
+/static/index.js
+/static/index.css
